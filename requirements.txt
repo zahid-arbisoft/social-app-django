@@ -1,2 +1,2 @@
 Django>=3.2
-social-auth-core>=4.4.1
+social-auth-core @git+https://github.com/zahid-arbisoft/social-core.git@4.4.2
